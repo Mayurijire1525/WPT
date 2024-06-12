@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+
+}
+button{
+    background-color: #f08804;
+}
+
+#logo{
+    color:#f08804;
+    font-size:25px;
+
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}
+button{
+    background-color: #f08804;
+    color: white;
+}
+.contentBox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black ;
+}
+#content{
+    height: 720px;
+}
+footer{
+    background-color: #0f1111;
+    color: white;
+    text-align: center;
+
+}
+#box1{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    font-size: 10px;
+}
+#box2{
+    height: 50px;
+    width: 50px;
+    background-color: yellow;
+    margin-left: 10%;
+    font-size: 2em;
+    width: 5em;
+}
