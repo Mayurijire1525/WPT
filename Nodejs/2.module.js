@@ -10,7 +10,8 @@ exports.addtion=function(a,b,...c){
 
 //factorial of a number
 exports.factorial=function(n=5){
-    f=1;for(var i=1;i<=n;i++){
+    f=1;
+    for(var i=1;i<=n;i++){
         f=f*i
     }
     return f;
